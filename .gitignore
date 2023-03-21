@@ -1,0 +1,8 @@
+.bash_logout
+.bash_profile
+.bashrc
+.gitconfig
+.mysql_history
+.python_history
+.ssh/
+.vscode-server/
