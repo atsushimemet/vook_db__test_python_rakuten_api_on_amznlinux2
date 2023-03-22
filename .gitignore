@@ -7,3 +7,5 @@
 .ssh/
 .vscode-server/
 /env/
+local_config.py
+__pycache__/
